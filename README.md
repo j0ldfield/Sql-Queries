@@ -1,2 +1,2 @@
 # Sql-Queries
-Repository for collecting sql mehods and database application examples
+Repository for collecting sql methods and database application examples
